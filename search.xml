@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/08/25/hello-world/</url>
+    <content><![CDATA[<html><head><link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script></head><body><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start" class="heading-control"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start<a class="heading-anchor" href="#Quick-Start" aria-hidden="true"></a></h2><h3 id="Create-a-new-post" class="heading-control"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post<a class="heading-anchor" href="#Create-a-new-post" aria-hidden="true"></a></h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server" class="heading-control"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server<a class="heading-anchor" href="#Run-server" aria-hidden="true"></a></h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files" class="heading-control"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files<a class="heading-anchor" href="#Generate-static-files" aria-hidden="true"></a></h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites" class="heading-control"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites<a class="heading-anchor" href="#Deploy-to-remote-sites" aria-hidden="true"></a></h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<h2 id="MathJax" class="heading-control"><a href="#MathJax" class="headerlink" title="MathJax"></a>MathJax<a class="heading-anchor" href="#MathJax" aria-hidden="true"></a></h2><script type="math/tex; mode=display">
+\frac{1}{m}\lg C=\frac{1}{n}\left(\sum_{i=1}^n{Y_i+\frac{1}{m}\sum_{i=1}^n{X_i}}\right)</script><h2 id="链接" class="heading-control"><a href="#链接" class="headerlink" title="链接"></a>链接<a class="heading-anchor" href="#链接" aria-hidden="true"></a></h2><p><a href="https://blog.butanediol.me" name="https://blog.butanediol.me/media/avatar.png" class="LinkCard">一个测试链接</a></p>
+<h2 id="诗词" class="heading-control"><a href="#诗词" class="headerlink" title="诗词"></a>诗词<a class="heading-anchor" href="#诗词" aria-hidden="true"></a></h2><blockquote class="blockquote-center">
+            <i class="fa fa-quote-left"></i>
+            <p><span id="jinrishici-sentence">正在加载今日诗词….</span> <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script></p>
+
+            <i class="fa fa-quote-right"></i>
+          </blockquote>
+</body></html>]]></content>
+      <categories>
+        <category>Hexo</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+      </tags>
+  </entry>
+</search>
